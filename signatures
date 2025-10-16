@@ -1,5 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap');
+@font-face {
+  font-family: 'Marline';
+  src: url('https://raw.githubusercontent.com/somneaz/fonts/main/Marline.ttf') format('truetype');
+}
 
 body {
-  font-family: 'Rubik Glitch', sans-serif;
+  font-family: 'Marline', sans-serif;
 }
